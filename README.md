@@ -5,6 +5,7 @@ A test project to learn the basics of git :)
 > All 
 > Of it
 
-#Why is it awesome
+# Why is it awesome ?
 
-* BECAUSE !!
+* It writes cool text
+* Pretty neat !
