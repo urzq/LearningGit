@@ -10,3 +10,4 @@ A test project to learn the basics of git :)
 * It writes cool text
 * Pretty neat !
 * Such readme
+* Very awesome
