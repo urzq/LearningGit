@@ -9,3 +9,4 @@ A test project to learn the basics of git :)
 
 * It writes cool text
 * Pretty neat !
+* Very awesome
